@@ -6,3 +6,9 @@ Realizada por: Nahuel Gómez
 - Diseño CSS (TERMINADO)
 - ScrollReveal (TERMINADO)
 - Etiquetas META, Información de la página y redirecciones (PENDIENTE)
+
+*V1.1*:
+- Contenido cargado en página
+- Enlaces actualizados
+- Atributos ALT (Imágenes) completados
+- Etiquetas META Realizadas
